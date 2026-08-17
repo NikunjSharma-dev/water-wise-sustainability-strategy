@@ -1,42 +1,45 @@
-# Water Wise Sustainability Strategy 💧🌱
+# Water Wise Sustainability Strategy — IIT Guwahati Campus Case Study 💧🌱
 
-> **Municipal Non-Revenue Water Loss Reduction, IoT Leak Detection, and Industrial Wastewater Recycling Financial Models.**
+> **Kriti Challenge Strategic Case — Campus Water Scarcity Mitigation, 5.5 MLD Distribution Optimization, IoT Leak Detection, and Circular Wastewater Recycling.**
 
-[![ESG](https://img.shields.io/badge/Domain-Water%20Sustainability%20%26%20ESG-blue.svg)](#strategic-overview)
-[![Framework](https://img.shields.io/badge/Framework-Circular%20Water%20Economy-green.svg)](#sustainability-framework)
+[![Kriti Challenge](https://img.shields.io/badge/Event-Kriti%20Challenge-orange.svg)](#overview--campus-context)
+[![IIT Guwahati](https://img.shields.io/badge/Context-IIT%20Guwahati%20Campus-blue.svg)](#overview--campus-context)
+[![ESG](https://img.shields.io/badge/Domain-Water%20Sustainability%20%26%20ESG-green.svg)](#strategic-framework)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
-## 🎯 Strategic Overview & Impact
+## 🎯 Overview & Campus Context
 
-This repository contains the strategic sustainability case study and operational blueprint developed for the **Kriti Challenge**, addressing urban water management, Non-Revenue Water (NRW) reduction, and industrial wastewater treatment circularity.
+Developed for the **Kriti Challenge** (Hostel ID 78), **Water Wise Consulting** formulates a holistic, analytical, and technological strategy to solve campus water scarcity, demand management, and supply distribution at **IIT Guwahati** (serving 8,300+ students, faculty, staff, and residential areas).
 
-### Key Strategic Highlights:
-- **Smart Metering & IoT Leak Detection:** Multi-layered sensor framework to reduce distribution pipeline loss by up to 35%.
-- **Circular Wastewater Financial Model:** Business model and ROI payback analysis for zero liquid discharge (ZLD) industrial facilities.
-- **Municipal Policy Alignment:** Public-Private Partnership (PPP) governance model for sustainable municipal infrastructure scaling.
+### Key Empirical Insights & Metrics:
+- 🚰 **5.5 MLD Campus Demand:** Analyzed daily consumption patterns across residential quarters, academic complexes, dining messes, and utility services.
+- 📊 **Per-Resident Consumption Breakdown (180 L/Day):**
+  - Bathing: 50 L | Laundry: 45 L | Toilet: 30 L | Mess: 20 L | Cleaning/Wastage: 20 L | Drinking/Recreation: 15 L
+- 🚨 **Infrastructure Bottlenecks:** Identified severe supply deficits in Married Scholars Hostel (MSH) and Gaurang Hostel stemming from missing primary distribution trunk lines.
+- 💡 **IoT Leak Detection & Smart Metering:** Multi-tiered sensor monitoring targeting Non-Revenue Water (NRW) reduction by up to 35%.
 
 ---
 
-## 📊 Sustainability Framework
+## 📊 Strategic Framework
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
-│                      MUNICIPAL WATER DISTRIBUTION                      │
-│  · Bulk Intake Monitoring · IoT Sensor Grid · Leak Detection Algorithm  │
+│                     5.5 MLD CAMPUS WATER INTAKE                        │
+│  · Academic Complex · Hostels (MSH/Gaurang) · Residential Quarters     │
 └──────────────────────────────────┬─────────────────────────────────────┘
                                    │
                                    ▼
 ┌────────────────────────────────────────────────────────────────────────┐
-│                   NON-REVENUE WATER (NRW) REDUCTION                    │
-│  · Pressure Management · Smart Metering · Asset Remediation            │
+│                   INFRASTRUCTURE DIAGNOSIS & REPAIR                    │
+│  · Primary Trunk Pipeline Construction · Automated Pressure Controls    │
 └──────────────────────────────────┬─────────────────────────────────────┘
                                    │
                                    ▼
 ┌────────────────────────────────────────────────────────────────────────┐
-│                     CIRCULAR REUSE & INDUSTRIAL ZLD                    │
-│  · Industrial Effluent Treatment · Recycled Water Tariff Model         │
+│                CIRCULAR REUSE & SMART GOVERNANCE MATRIX                │
+│  · Mess/Laundry Greywater Recycling · Sensor Leak Detection Grid       │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -44,7 +47,16 @@ This repository contains the strategic sustainability case study and operational
 
 ## 📁 Repository Artifacts
 
-- 📑 **`Consulting_water_wise_kriti-2.pdf`**: Comprehensive consulting presentation covering operational diagnosis, technological interventions, and financial valuation models.
+- 📑 **`Consulting_water_wise_kriti-2.pdf`**: Master 17-page presentation deck detailing consumption audits, pipeline distribution solutions, and financial/logistical feasibility models.
+
+---
+
+## 🛠️ Key Modules Covered
+
+1. **Consumption Analysis:** Detailed volume breakdown per activity and residential sector.
+2. **Distribution Problem Solving:** Pipeline architecture design for underserved hostels.
+3. **Circular Economy:** Industrial and mess wastewater treatment for secondary campus reuse.
+4. **Governance:** Phased capital expenditure (CapEx) vs. operational expenditure (OpEx) financial model.
 
 ---
 
